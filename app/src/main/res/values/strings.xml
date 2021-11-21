@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">homework01</string>
+    <string name="app_name">Домашняя работа</string>
+    <string name="for_checkbox"><![CDATA[<---------- Галочку ставить тут]]></string>
+    <string name="for_button">Тыкать тут</string>
 </resources>
